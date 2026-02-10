@@ -43,7 +43,7 @@ Both are implemented using recursive functions in this repo.
 
 ## How to Copy / Clone This Repository
 You can get this repo on your computer in two main ways:
-###Option 1: Using Git (recommended)
+### Option 1: Using Git
 ```
 git clone https://github.com/tanvir-techbro/Recursion.git
 ```
