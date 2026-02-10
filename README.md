@@ -47,7 +47,7 @@ You can get this repo on your computer in two main ways:
 ```
 git clone https://github.com/tanvir-techbro/Recursion.git
 ```
-###Option 2: Download as ZIP
+### Option 2: Download as ZIP
 
 1. Click the green Code button → Download ZIP
 2. Extract the ZIP file and open the folder
