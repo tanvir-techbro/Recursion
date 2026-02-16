@@ -51,7 +51,4 @@ git clone https://github.com/tanvir-techbro/Recursion.git
 
 1. Click the green Code button → Download ZIP
 2. Extract the ZIP file and open the folder
-
-Future Plans: Planning to add more recursive examples.
-
-Feel free to contribute or suggest problems!
+3. Then run using a compiler.
